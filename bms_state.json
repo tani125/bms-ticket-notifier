@@ -1,11 +1,252 @@
 {
-  "shows": {},
+  "shows": {
+    "PMPW|59218|20260406|RECLINER ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260406",
+      "cat": "RECLINER ROWS",
+      "price": "570.00",
+      "status": "3"
+    },
+    "PMPW|59218|20260406|PICTURE PERFECT": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260406",
+      "cat": "PICTURE PERFECT",
+      "price": "420.00",
+      "status": "3"
+    },
+    "PMPW|59218|20260406|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260406",
+      "cat": "PRIME ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PMPW|59218|20260406|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260406",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PMPW|59218|20260406|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260406",
+      "cat": "CLASSIC ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PMPW|59246|20260406|RECLINER ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260406",
+      "cat": "RECLINER ROWS",
+      "price": "850.00",
+      "status": "3"
+    },
+    "PMPW|59246|20260406|PICTURE PERFECT": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260406",
+      "cat": "PICTURE PERFECT",
+      "price": "550.00",
+      "status": "3"
+    },
+    "PMPW|59246|20260406|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260406",
+      "cat": "PRIME ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PMPW|59246|20260406|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260406",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "470.00",
+      "status": "3"
+    },
+    "PMPW|59246|20260406|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260406",
+      "cat": "CLASSIC ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
+    "PMPW|59248|20260406|RECLINER ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260406",
+      "cat": "RECLINER ROWS",
+      "price": "850.00",
+      "status": "3"
+    },
+    "PMPW|59248|20260406|PICTURE PERFECT": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260406",
+      "cat": "PICTURE PERFECT",
+      "price": "550.00",
+      "status": "3"
+    },
+    "PMPW|59248|20260406|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260406",
+      "cat": "PRIME ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PMPW|59248|20260406|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260406",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "470.00",
+      "status": "3"
+    },
+    "PMPW|59248|20260406|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260406",
+      "cat": "CLASSIC ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
+    "PMPW|59390|20260407|RECLINER ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260407",
+      "cat": "RECLINER ROWS",
+      "price": "570.00",
+      "status": "3"
+    },
+    "PMPW|59390|20260407|PICTURE PERFECT": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260407",
+      "cat": "PICTURE PERFECT",
+      "price": "420.00",
+      "status": "3"
+    },
+    "PMPW|59390|20260407|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260407",
+      "cat": "PRIME ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PMPW|59390|20260407|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260407",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PMPW|59390|20260407|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "09:05 AM",
+      "date": "20260407",
+      "cat": "CLASSIC ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PMPW|59392|20260407|RECLINER ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260407",
+      "cat": "RECLINER ROWS",
+      "price": "850.00",
+      "status": "3"
+    },
+    "PMPW|59392|20260407|PICTURE PERFECT": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260407",
+      "cat": "PICTURE PERFECT",
+      "price": "550.00",
+      "status": "3"
+    },
+    "PMPW|59392|20260407|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260407",
+      "cat": "PRIME ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PMPW|59392|20260407|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260407",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "470.00",
+      "status": "3"
+    },
+    "PMPW|59392|20260407|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "02:40 PM",
+      "date": "20260407",
+      "cat": "CLASSIC ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
+    "PMPW|59394|20260407|RECLINER ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260407",
+      "cat": "RECLINER ROWS",
+      "price": "850.00",
+      "status": "3"
+    },
+    "PMPW|59394|20260407|PICTURE PERFECT": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260407",
+      "cat": "PICTURE PERFECT",
+      "price": "550.00",
+      "status": "3"
+    },
+    "PMPW|59394|20260407|PRIME ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260407",
+      "cat": "PRIME ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PMPW|59394|20260407|CLASSIC PLUS ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260407",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "470.00",
+      "status": "3"
+    },
+    "PMPW|59394|20260407|CLASSIC ROWS": {
+      "venue": "INOX Megaplex Phoenix Mall of the Millennium Wakad",
+      "time": "08:15 PM",
+      "date": "20260407",
+      "cat": "CLASSIC ROWS",
+      "price": "450.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260404": "BOOKABLE",
+    "20260404": "AVAILABLE",
     "20260405": "AVAILABLE",
-    "20260406": "NOT_OPEN",
-    "20260407": "NOT_OPEN",
-    "20260408": "NOT_OPEN",
+    "20260406": "AVAILABLE",
+    "20260407": "BOOKABLE",
+    "20260408": "AVAILABLE",
     "20260409": "NOT_OPEN",
     "20260410": "NOT_OPEN"
   }
